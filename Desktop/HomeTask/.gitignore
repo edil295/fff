@@ -1,0 +1,4 @@
+app/entrypoint.prod.sh
+.idea/
+.env.prod
+.env.prod.db
